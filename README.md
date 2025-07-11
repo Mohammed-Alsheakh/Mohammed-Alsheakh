@@ -32,7 +32,7 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 
 ## 💡 Projects
 
-* Arduino
+# Arduino
 - DC motor encoder testing  
 - PID speed control (Encoder & Potentiometer)  
 - PWM generation via registers and timers  
