@@ -34,7 +34,8 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 
 ** Arduino
 - DC motor encoder testing  
-- PID speed control (Encoder & Potentiometer)  
+- PID speed control using Encoder
+- PID position control using Potentiometer
 - PWM generation via registers and timers  
 - Rotary encoder integration  
 - LDR and ultrasonic sensor reading  
