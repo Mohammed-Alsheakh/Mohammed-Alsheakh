@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mohammed Alsheakh
 
-🎓 I graduated with a B.Sc. in Mechatronics Engineering from the Faculty of Technology at Marmara University, where the program was taught 100% in Turkish. 
-⚡ I’m passionate about Control Systems and Power Electronics, and I love combining hardware and software to build real systems.
+I graduated with a B.Sc. in Mechatronics Engineering from the Faculty of Technology at Marmara University, where the program was taught 100% in Turkish. 
+I’m passionate about Control Systems and Power Electronics, and I love combining hardware and software to build real systems.
 
 ---
 
-## 🧪 Internships
+## Internships
 
 🔹 [Iber Tekno Automation](https://www.ibertekno.com/tr) — Jul 2023 – Aug 2023
 - 3D CAD design using Solid Edge
