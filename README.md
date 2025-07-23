@@ -67,6 +67,7 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 #### CAD Designs
 - 4-axis camera slider  
 - Walnut cracking mechanism
+- Cardan joint
 
 ---
 
