@@ -32,7 +32,7 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 
 ## 💡 Projects
 
-** Arduino
+#### Arduino
 - DC motor encoder testing  
 - PID speed control using Encoder
 - PID position control using Potentiometer
@@ -41,13 +41,13 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 - LDR and ultrasonic sensor reading  
 - Stepper motor control (dual axis)
 
-** ESP32
+#### ESP32
 - Wireless communication between ESP modules  
 - Web-based control (LED, sensors, motors)  
 - REST API hosting on ESP  
 - Real-time motor control via WiFi
 
-** MATLAB / Simulink
+#### MATLAB / Simulink
 - Modeling and control of a 3D printer
 - State-space control of a DC-DC Buck Converter  
 - Drawing waveforms using **Fourier series**  
@@ -55,7 +55,7 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 - BLDC motor control
 - On-Off logic simulation
 
-** PCB Designs
+#### PCB Designs
 - DC-DC Boost converter using 555 Timer  
 - DC-DC Buck converter  
 - Custom DC motor driver  
@@ -64,13 +64,13 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 - Stepper motor driver (Graduation Project)  
 - LED driver board
 
-** CAD Designs
+#### CAD Designs
 - 4-axis camera slider  
 - Walnut cracking mechanism
 
 ---
 
-## 📫 Contact Me
+#### 📫 Contact Me
 
 - 📧 Email: muhammet.elsik@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammed-alsheakh-97637227a/
