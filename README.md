@@ -53,7 +53,7 @@ I’m passionate about Control Systems and Power Electronics, and I love combini
 - Drawing waveforms using **Fourier series**  
 - Inverted pendulum control with Luenberger observer
 - BLDC motor control
-- On-Off logic simulation
+- On-Off control
 
 #### PCB Designs
 - DC-DC Boost converter using 555 Timer  
